@@ -4,9 +4,9 @@ const BeersQuantity = ({ beers }) => {
   
     return (
     <>
-    <h1>Cantidad de cervezas</h1>
-    <h2>Red: {redBeers}</h2>
-    <h2>IPA: {ipaBeers}</h2>
+      <h1>Cantidad de cervezas</h1>
+      <h2>Red: {redBeers}</h2>
+      <h2>IPA: {ipaBeers}</h2>
     </>
   )
 }
